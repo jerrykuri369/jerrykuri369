@@ -1,5 +1,27 @@
-# 💫 About Me:
-Currently pursuing a Master’s in Telecommunication Systems at Blekinge Institute of Technology. Aiming to develop and demonstrate competency and expertise in network planning and design, cybersecurity, supported by multiple professional certifications in machine learning, network automation, and AI engineering.  <br><br>Focused on advancing next-generation communication systems by integrating AI/ML and cybersecurity frameworks. Embodies a dedication to continuous learning and innovation, leveraging technical knowledge to contribute to the evolving telecommunication landscape. My hobbies include any hands-on practical experiences on cybersecurity tasks and on-going learning on a number of online platforms and professional certifications.
+## About Me
+
+I am a graduate student in the **M.Sc. Telecommunication Systems** programme at **Blekinge Institute of Technology (BTH)**, Sweden. My work sits at the intersection of telecommunications engineering and security, with a particular focus on how next-generation networks can be made resilient against both present-day adversaries and the emerging threat posed by quantum computing.
+
+### Research & Technical Interests
+- **Post-Quantum Cryptography (PQC)** — migration strategies and integration of quantum-resistant primitives into telecommunication protocols
+- **Telecommunications Security** — threat modelling and protection of core and access network infrastructure
+- **Offensive Security** — penetration testing, vulnerability assessment, and adversarial analysis of networked systems
+- **Network Planning & Design** — architecture, performance, and automation of carrier-grade networks
+- **AI/ML for Networks** — applying machine learning to network operations, anomaly detection, and security analytics
+
+### Current Focus
+- Preparing for the **OSCP+** (Offensive Security Certified Professional) certification
+- Low-level network programming in **C**, including TCP/IP socket programming
+- Active member of the **OffSec Sweden Chapter** community
+
+### Certifications & Training
+Professional certifications in Google Cybersecurity, IBM Machine Learning, CISCO Network Programming and Automation, and IBM AI engineering, complemented by continuous hands-on practice on Offensive Security lab platforms.
+
+### Approach
+I believe robust security is built on a deep understanding of the underlying systems. I combine theoretical study, particularly in cryptography, with practical, lab-driven experimentation to develop rigorous, verifiable solutions for the evolving telecommunications landscape.
+
+📫 [LinkedIn](https://linkedin.com/in/jerrykurimandara) · [Website](https://jerry-kuri.b12sites.com) · [X](https://x.com/RJK_PQCTelecom)
+```
 
 
 ## 🌐 Socials:
